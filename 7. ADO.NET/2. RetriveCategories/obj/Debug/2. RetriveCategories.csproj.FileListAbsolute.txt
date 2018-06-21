@@ -1,0 +1,18 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\ADOdotNET\2. RetriveCategories\bin\Debug\_2.RetriveCategories.exe.config
+c:\users\stanislav\documents\visual studio 2013\Projects\ADOdotNET\2. RetriveCategories\bin\Debug\_2.RetriveCategories.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\ADOdotNET\2. RetriveCategories\bin\Debug\_2.RetriveCategories.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\ADOdotNET\2. RetriveCategories\obj\Debug\2. RetriveCategories.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2013\Projects\ADOdotNET\2. RetriveCategories\obj\Debug\_2.RetriveCategories.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\ADOdotNET\2. RetriveCategories\obj\Debug\_2.RetriveCategories.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\2. RetriveCategories\bin\Debug\_2.RetriveCategories.exe.config
+T:\SQL\7. ADO.NET\ADOdotNET\2. RetriveCategories\bin\Debug\_2.RetriveCategories.exe
+T:\SQL\7. ADO.NET\ADOdotNET\2. RetriveCategories\bin\Debug\_2.RetriveCategories.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\2. RetriveCategories\obj\Debug\_2.RetriveCategories.exe
+T:\SQL\7. ADO.NET\ADOdotNET\2. RetriveCategories\obj\Debug\_2.RetriveCategories.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\2. RetriveCategories\obj\Debug\2. RetriveCategories.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\2. RetriveCategories\bin\Debug\_2.RetriveCategories.exe.config
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\2. RetriveCategories\obj\Debug\_2.RetriveCategories.exe
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\2. RetriveCategories\obj\Debug\_2.RetriveCategories.pdb
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\2. RetriveCategories\bin\Debug\_2.RetriveCategories.exe.config
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\2. RetriveCategories\obj\Debug\_2.RetriveCategories.exe
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\2. RetriveCategories\obj\Debug\_2.RetriveCategories.pdb

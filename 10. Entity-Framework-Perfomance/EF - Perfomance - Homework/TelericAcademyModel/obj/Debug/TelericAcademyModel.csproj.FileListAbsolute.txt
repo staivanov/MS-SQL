@@ -1,0 +1,10 @@
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\TelericAcademyModel\bin\Debug\TelericAcademyModel.dll.config
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\TelericAcademyModel\bin\Debug\TelericAcademyModel.dll
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\TelericAcademyModel\bin\Debug\TelericAcademyModel.pdb
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\TelericAcademyModel\bin\Debug\EntityFramework.dll
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\TelericAcademyModel\bin\Debug\EntityFramework.SqlServer.dll
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\TelericAcademyModel\bin\Debug\EntityFramework.xml
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\TelericAcademyModel\bin\Debug\EntityFramework.SqlServer.xml
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\TelericAcademyModel\obj\Debug\TelericAcademyModel.csprojResolveAssemblyReference.cache
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\TelericAcademyModel\obj\Debug\TelericAcademyModel.dll
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\TelericAcademyModel\obj\Debug\TelericAcademyModel.pdb

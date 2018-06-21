@@ -1,0 +1,15 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\ADOdotNET\3. RetriveProducts\bin\Debug\_3.RetriveProducts.exe.config
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\3. RetriveProducts\bin\Debug\_3.RetriveProducts.exe
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\3. RetriveProducts\bin\Debug\_3.RetriveProducts.pdb
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\3. RetriveProducts\obj\Debug\3. RetriveProducts.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\3. RetriveProducts\obj\Debug\_3.RetriveProducts.exe
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\3. RetriveProducts\obj\Debug\_3.RetriveProducts.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\3. RetriveProducts\bin\Debug\_3.RetriveProducts.exe.config
+T:\SQL\7. ADO.NET\ADOdotNET\3. RetriveProducts\obj\Debug\_3.RetriveProducts.exe
+T:\SQL\7. ADO.NET\ADOdotNET\3. RetriveProducts\obj\Debug\_3.RetriveProducts.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\3. RetriveProducts\bin\Debug\_3.RetriveProducts.exe
+T:\SQL\7. ADO.NET\ADOdotNET\3. RetriveProducts\bin\Debug\_3.RetriveProducts.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\3. RetriveProducts\obj\Debug\3. RetriveProducts.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\3. RetriveProducts\bin\Debug\_3.RetriveProducts.exe.config
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\3. RetriveProducts\obj\Debug\_3.RetriveProducts.exe
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\3. RetriveProducts\obj\Debug\_3.RetriveProducts.pdb

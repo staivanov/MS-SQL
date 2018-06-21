@@ -1,0 +1,6 @@
+Write a SQL query to find the names of all employees from the departments "Sales" and "Finance" whose hire year is between 1995 and 2005.
+--------------------------------------------------------------
+SELECT e.FirstName + ' ' + e.LastName as Name, e.DepartmentID, d.DepartmentID, e.HireDate
+ FROM [TelerikAcademy].[dbo].Departments d JOIN [TelerikAcademy].[dbo].Employees e
+ON d.DepartmentID = e.DepartmentID
+AND (e.HireDate  > 1/1/1995) AND (d.Name = 'Finance' OR d.Name = 'Sales')

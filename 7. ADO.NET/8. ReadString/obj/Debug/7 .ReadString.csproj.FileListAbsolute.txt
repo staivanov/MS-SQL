@@ -1,0 +1,3 @@
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\8. ReadString\bin\Debug\_8.ReadString.exe.config
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\8. ReadString\obj\Debug\_8.ReadString.exe
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\8. ReadString\obj\Debug\_8.ReadString.pdb

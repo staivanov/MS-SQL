@@ -1,0 +1,12 @@
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\bin\Debug\StudentSystem.dll.config
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\bin\Debug\StudentSystem.dll
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\bin\Debug\StudentSystem.pdb
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\bin\Debug\EntityFramework.dll
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\bin\Debug\EntityFramework.xml
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\obj\Debug\StudentSystem.dll
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\obj\Debug\StudentSystem.pdb
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\obj\Debug\1.StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\bin\Debug\BreakAwayContext.dll
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\StudentSystem\bin\Debug\BreakAwayContext.pdb

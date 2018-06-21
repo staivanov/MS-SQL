@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. UseInclude", "Entity Framework - Perfomance\1. UseInclude.csproj", "{176FB607-6FB7-41A1-A8C2-346A6D47038E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. CompareSQLQuerysPerfomance", "2. CompareSQLQuerysPerfomance\2. CompareSQLQuerysPerfomance.csproj", "{3C45339C-1E01-4260-A3D2-A9384831974C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelericAcademyModel", "TelericAcademyModel\TelericAcademyModel.csproj", "{4FB25CC3-4DB2-4A1F-BB06-452B99035C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176FB607-6FB7-41A1-A8C2-346A6D47038E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176FB607-6FB7-41A1-A8C2-346A6D47038E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176FB607-6FB7-41A1-A8C2-346A6D47038E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176FB607-6FB7-41A1-A8C2-346A6D47038E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C45339C-1E01-4260-A3D2-A9384831974C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C45339C-1E01-4260-A3D2-A9384831974C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C45339C-1E01-4260-A3D2-A9384831974C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C45339C-1E01-4260-A3D2-A9384831974C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB25CC3-4DB2-4A1F-BB06-452B99035C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB25CC3-4DB2-4A1F-BB06-452B99035C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB25CC3-4DB2-4A1F-BB06-452B99035C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB25CC3-4DB2-4A1F-BB06-452B99035C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

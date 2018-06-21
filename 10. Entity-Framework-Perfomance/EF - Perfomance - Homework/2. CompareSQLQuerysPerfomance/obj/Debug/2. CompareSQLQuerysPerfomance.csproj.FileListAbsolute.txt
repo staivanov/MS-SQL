@@ -1,0 +1,12 @@
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\bin\Debug\_2.CompareSQLQuerysPerfomance.exe.config
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\bin\Debug\_2.CompareSQLQuerysPerfomance.exe
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\bin\Debug\_2.CompareSQLQuerysPerfomance.pdb
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\bin\Debug\EntityFramework.dll
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\bin\Debug\EntityFramework.SqlServer.dll
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\bin\Debug\TelericAcademyModel.dll
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\bin\Debug\TelericAcademyModel.pdb
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\bin\Debug\EntityFramework.xml
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\bin\Debug\EntityFramework.SqlServer.xml
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\obj\Debug\_2.CompareSQLQuerysPerfomance.exe
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\obj\Debug\_2.CompareSQLQuerysPerfomance.pdb
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\2. CompareSQLQuerysPerfomance\obj\Debug\2. CompareSQLQuerysPerfomance.csprojResolveAssemblyReference.cache

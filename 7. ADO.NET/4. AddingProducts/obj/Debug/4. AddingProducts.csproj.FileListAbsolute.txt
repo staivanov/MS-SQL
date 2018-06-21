@@ -1,0 +1,15 @@
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\4. AddingProducts\bin\Debug\_4.AddingProducts.exe.config
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\4. AddingProducts\bin\Debug\_4.AddingProducts.exe
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\4. AddingProducts\bin\Debug\_4.AddingProducts.pdb
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\4. AddingProducts\obj\Debug\4. AddingProducts.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\4. AddingProducts\obj\Debug\_4.AddingProducts.exe
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\4. AddingProducts\obj\Debug\_4.AddingProducts.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\4. AddingProducts\bin\Debug\_4.AddingProducts.exe.config
+T:\SQL\7. ADO.NET\ADOdotNET\4. AddingProducts\obj\Debug\_4.AddingProducts.exe
+T:\SQL\7. ADO.NET\ADOdotNET\4. AddingProducts\obj\Debug\_4.AddingProducts.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\4. AddingProducts\bin\Debug\_4.AddingProducts.exe
+T:\SQL\7. ADO.NET\ADOdotNET\4. AddingProducts\bin\Debug\_4.AddingProducts.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\4. AddingProducts\obj\Debug\4. AddingProducts.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\4. AddingProducts\bin\Debug\_4.AddingProducts.exe.config
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\4. AddingProducts\obj\Debug\_4.AddingProducts.exe
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\4. AddingProducts\obj\Debug\_4.AddingProducts.pdb

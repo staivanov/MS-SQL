@@ -1,0 +1,27 @@
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\bin\Debug\_4.NativeQuery.exe.config
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\bin\Debug\_4.NativeQuery.exe
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\bin\Debug\_4.NativeQuery.pdb
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\bin\Debug\EntityFramework.dll
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\bin\Debug\MyNorthwindDB.dll
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\bin\Debug\MyNorthwindDB.pdb
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\bin\Debug\EntityFramework.xml
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\obj\Debug\_4.NativeQuery.exe
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\obj\Debug\_4.NativeQuery.pdb
+c:\Users\Stanislav\Documents\Visual Studio 2013\Projects\EntityHomework\4. NativeQuery\obj\Debug\4. NativeQuery.csprojResolveAssemblyReference.cache
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\bin\Debug\_4.NativeQuery.exe.config
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\obj\Debug\_4.NativeQuery.exe
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\obj\Debug\_4.NativeQuery.pdb
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\bin\Debug\_4.NativeQuery.exe
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\bin\Debug\_4.NativeQuery.pdb
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\bin\Debug\EntityFramework.dll
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\bin\Debug\EntityFramework.SqlServer.dll
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\bin\Debug\MyNorthwindDB.dll
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\bin\Debug\MyNorthwindDB.pdb
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\bin\Debug\EntityFramework.xml
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\bin\Debug\EntityFramework.SqlServer.xml
+T:\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\obj\Debug\4. NativeQuery.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\OneDrive\Документи\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\bin\Debug\_4.NativeQuery.exe.config
+C:\Users\Stanislav\OneDrive\Документи\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\obj\Debug\_4.NativeQuery.exe
+C:\Users\Stanislav\OneDrive\Документи\SQL\8. Entity-Framework\EntityHomework\4. NativeQuery\obj\Debug\_4.NativeQuery.pdb

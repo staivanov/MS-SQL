@@ -1,0 +1,12 @@
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\bin\Debug\Entity Framework - Perfomance.exe.config
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\bin\Debug\Entity Framework - Perfomance.exe
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\bin\Debug\Entity Framework - Perfomance.pdb
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\obj\Debug\1. UseInclude.csprojResolveAssemblyReference.cache
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\obj\Debug\Entity Framework - Perfomance.exe
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\obj\Debug\Entity Framework - Perfomance.pdb
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\bin\Debug\EntityFramework.dll
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\bin\Debug\EntityFramework.SqlServer.dll
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\bin\Debug\TelericAcademyModel.dll
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\bin\Debug\TelericAcademyModel.pdb
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\bin\Debug\EntityFramework.xml
+T:\SQL\10. Entity-Framework-Performance\EF - Perfomance - Homework\Entity Framework - Perfomance\bin\Debug\EntityFramework.SqlServer.xml

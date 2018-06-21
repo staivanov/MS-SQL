@@ -1,0 +1,9 @@
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\8. ReadString\bin\Debug\_8.ReadString.exe.config
+T:\SQL\7. ADO.NET\ADOdotNET\8. ReadString\bin\Debug\_8.ReadString.exe.config
+T:\SQL\7. ADO.NET\ADOdotNET\8. ReadString\bin\Debug\_8.ReadString.exe
+T:\SQL\7. ADO.NET\ADOdotNET\8. ReadString\bin\Debug\_8.ReadString.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\8. ReadString\obj\Debug\_8.ReadString.exe
+T:\SQL\7. ADO.NET\ADOdotNET\8. ReadString\obj\Debug\_8.ReadString.pdb
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\8. ReadString\bin\Debug\_8.ReadString.exe.config
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\8. ReadString\obj\Debug\_8.ReadString.exe
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\8. ReadString\obj\Debug\_8.ReadString.pdb

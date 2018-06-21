@@ -1,0 +1,17 @@
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\bin\Debug\CodeFirstHomework.exe.config
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\bin\Debug\CodeFirstHomework.exe
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\bin\Debug\CodeFirstHomework.pdb
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\bin\Debug\EntityFramework.dll
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\bin\Debug\EntityFramework.xml
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\obj\Debug\2.TestingCodeFirstApp.csprojResolveAssemblyReference.cache
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\obj\Debug\CodeFirstHomework.exe
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\obj\Debug\CodeFirstHomework.pdb
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\bin\Debug\StudentSystem.dll
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\bin\Debug\StudentSystem.pdb
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\bin\Debug\BreakAwayContext.dll
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\CodeFirstHomework\CodeFirstHomework\bin\Debug\BreakAwayContext.pdb
+C:\Users\Stanislav\OneDrive\Документи\SQL\9. Entity-Framework-Code-First\CodeFirstHomework\CodeFirstHomework\bin\Debug\CodeFirstHomework.exe.config
+C:\Users\Stanislav\OneDrive\Документи\SQL\9. Entity-Framework-Code-First\CodeFirstHomework\CodeFirstHomework\obj\Debug\CodeFirstHomework.exe
+C:\Users\Stanislav\OneDrive\Документи\SQL\9. Entity-Framework-Code-First\CodeFirstHomework\CodeFirstHomework\obj\Debug\CodeFirstHomework.pdb

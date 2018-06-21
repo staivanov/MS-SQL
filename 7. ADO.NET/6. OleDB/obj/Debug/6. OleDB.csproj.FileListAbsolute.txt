@@ -1,0 +1,6 @@
+C:\Users\Stanislav\Documents\Visual Studio 2013\Projects\ADOdotNET\6. OleDB\bin\Debug\_6.OleDB.exe.config
+T:\SQL\7. ADO.NET\ADOdotNET\6. OleDB\bin\Debug\_6.OleDB.exe.config
+T:\SQL\7. ADO.NET\ADOdotNET\6. OleDB\bin\Debug\_6.OleDB.exe
+T:\SQL\7. ADO.NET\ADOdotNET\6. OleDB\bin\Debug\_6.OleDB.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\6. OleDB\obj\Debug\_6.OleDB.exe
+T:\SQL\7. ADO.NET\ADOdotNET\6. OleDB\obj\Debug\_6.OleDB.pdb

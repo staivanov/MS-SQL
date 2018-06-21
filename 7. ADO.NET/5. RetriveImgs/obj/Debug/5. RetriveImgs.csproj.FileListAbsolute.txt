@@ -1,0 +1,9 @@
+T:\SQL\7. ADO.NET\ADOdotNET\5. RetriveImgs\bin\Debug\_5.RetriveImgs.exe.config
+T:\SQL\7. ADO.NET\ADOdotNET\5. RetriveImgs\obj\Debug\5. RetriveImgs.csprojResolveAssemblyReference.cache
+T:\SQL\7. ADO.NET\ADOdotNET\5. RetriveImgs\bin\Debug\_5.RetriveImgs.exe
+T:\SQL\7. ADO.NET\ADOdotNET\5. RetriveImgs\bin\Debug\_5.RetriveImgs.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\5. RetriveImgs\obj\Debug\_5.RetriveImgs.exe
+T:\SQL\7. ADO.NET\ADOdotNET\5. RetriveImgs\obj\Debug\_5.RetriveImgs.pdb
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\5. RetriveImgs\bin\Debug\_5.RetriveImgs.exe.config
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\5. RetriveImgs\obj\Debug\_5.RetriveImgs.exe
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\5. RetriveImgs\obj\Debug\_5.RetriveImgs.pdb

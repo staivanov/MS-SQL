@@ -1,0 +1,6 @@
+Write a SQL query to find all employees along with their address. Use inner join with ON clause.
+--------------------------------------------------------------
+SELECT a.FirstName + ' ' + a.LastName as Name, a.AddressID as Address, b.AddressID, b.AddressText as Text
+FROM TelerikAcademy.dbo.Employees a
+INNER JOIN TelerikAcademy.dbo.Addresses b
+ON a.AddressID = b.AddressID

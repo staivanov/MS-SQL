@@ -1,0 +1,8 @@
+T:\SQL\7. ADO.NET\ADOdotNET\6. OleDB\bin\x86\Debug\_6.OleDB.exe.config
+T:\SQL\7. ADO.NET\ADOdotNET\6. OleDB\bin\x86\Debug\_6.OleDB.exe
+T:\SQL\7. ADO.NET\ADOdotNET\6. OleDB\bin\x86\Debug\_6.OleDB.pdb
+T:\SQL\7. ADO.NET\ADOdotNET\6. OleDB\obj\x86\Debug\_6.OleDB.exe
+T:\SQL\7. ADO.NET\ADOdotNET\6. OleDB\obj\x86\Debug\_6.OleDB.pdb
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\6. OleDB\bin\x86\Debug\_6.OleDB.exe.config
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\6. OleDB\obj\x86\Debug\_6.OleDB.exe
+C:\Users\Stanislav\OneDrive\Документи\SQL\7. ADO.NET\ADOdotNET\6. OleDB\obj\x86\Debug\_6.OleDB.pdb

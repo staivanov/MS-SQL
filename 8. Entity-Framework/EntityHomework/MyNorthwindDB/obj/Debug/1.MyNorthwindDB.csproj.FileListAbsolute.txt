@@ -1,0 +1,10 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\EntityHomework\MyNorthwindDB\bin\Debug\MyNorthwindDB.dll.config
+c:\users\stanislav\documents\visual studio 2013\Projects\EntityHomework\MyNorthwindDB\bin\Debug\MyNorthwindDB.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\EntityHomework\MyNorthwindDB\bin\Debug\MyNorthwindDB.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\EntityHomework\MyNorthwindDB\bin\Debug\EntityFramework.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\EntityHomework\MyNorthwindDB\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\EntityHomework\MyNorthwindDB\bin\Debug\EntityFramework.xml
+c:\users\stanislav\documents\visual studio 2013\Projects\EntityHomework\MyNorthwindDB\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stanislav\documents\visual studio 2013\Projects\EntityHomework\MyNorthwindDB\obj\Debug\1.MyNorthwindDB.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2013\Projects\EntityHomework\MyNorthwindDB\obj\Debug\MyNorthwindDB.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\EntityHomework\MyNorthwindDB\obj\Debug\MyNorthwindDB.pdb
